@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.2.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC65yozxVLdb6Rq4Aropwj9HAPeXK0VbgvN3ryZkPsTtRPoQTgQ5wQb11VwOFXCfdzFptjYLPlihJU0jch/Pnw5SNmwbUfEzdQz8sOXvqApbdk1YamuFB1A/+n+ce93EBD+wqDSxEzv8xu2MnBLjU74+42cyue$
+        ]
+      }
+    ]
+  }
+}
